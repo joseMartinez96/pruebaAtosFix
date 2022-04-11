@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - EFQRCode (5.0.1):
+    - swift_qrcodejs (~> 1.1.1)
+  - swift_qrcodejs (1.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - EFQRCode (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EFQRCode
+    - swift_qrcodejs
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  EFQRCode: 239efec4dd406d9c635dd937525fc40960ce2e9f
+  swift_qrcodejs: c6d61d7ead7366c59352d6b59cc6423480c751ab
+
+PODFILE CHECKSUM: a64f124599f8d224d2a3e7abb9d5f84199e3a1c8
+
+COCOAPODS: 1.10.2
